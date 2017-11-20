@@ -1,0 +1,11 @@
+E:\codes\pattern\1 strategy\strategySample\strategySample\bin\Debug\netcoreapp2.0\strategySample.deps.json
+E:\codes\pattern\1 strategy\strategySample\strategySample\bin\Debug\netcoreapp2.0\strategySample.runtimeconfig.json
+E:\codes\pattern\1 strategy\strategySample\strategySample\bin\Debug\netcoreapp2.0\strategySample.runtimeconfig.dev.json
+E:\codes\pattern\1 strategy\strategySample\strategySample\bin\Debug\netcoreapp2.0\strategySample.dll
+E:\codes\pattern\1 strategy\strategySample\strategySample\bin\Debug\netcoreapp2.0\strategySample.pdb
+E:\codes\pattern\1 strategy\strategySample\strategySample\obj\Debug\netcoreapp2.0\strategySample.csprojResolveAssemblyReference.cache
+E:\codes\pattern\1 strategy\strategySample\strategySample\obj\Debug\netcoreapp2.0\strategySample.csproj.CoreCompileInputs.cache
+E:\codes\pattern\1 strategy\strategySample\strategySample\obj\Debug\netcoreapp2.0\strategySample.AssemblyInfoInputs.cache
+E:\codes\pattern\1 strategy\strategySample\strategySample\obj\Debug\netcoreapp2.0\strategySample.AssemblyInfo.cs
+E:\codes\pattern\1 strategy\strategySample\strategySample\obj\Debug\netcoreapp2.0\strategySample.dll
+E:\codes\pattern\1 strategy\strategySample\strategySample\obj\Debug\netcoreapp2.0\strategySample.pdb
